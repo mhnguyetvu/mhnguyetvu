@@ -8,7 +8,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)![SQL Badge](https://img.shields.io/badge/sql-%2300ADD8.svg?style=flat&logo=sql&logoColor=white)![Oracle Badge](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat&logo=oracle&logoColor=white)![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-%2343853D.svg?style=flat&logo=openai&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white&color=%23231F20)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> minhnguyetneu512@gmail.com
 <p align="left">
 </p>
 
