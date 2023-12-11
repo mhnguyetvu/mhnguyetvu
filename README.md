@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Nguyet</h1>
-<h3 align="center">🔭 I am a passinate data scientist<br>🌱 Enthusiastically engaging in the analysis and manipulation of vast datasets<br>⚡ Bullish on AI, Blockchain, Defi </h3>
+🔭 I am a passinate data scientist<br>🌱 Enthusiastically engaging in the analysis and manipulation of vast datasets<br>⚡ Bullish on AI, Blockchain, Defi </h3>
 
 ## 📄 Know about my experiences [https://www.linkedin.com/in/minh-nguyet-7ab414180/](https://www.linkedin.com/in/minh-nguyet-7ab414180/)
 ## 🌐 Socials
