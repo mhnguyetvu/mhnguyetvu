@@ -3,9 +3,9 @@
 
 ## 📄 Know about my experiences [https://www.linkedin.com/in/minh-nguyet-7ab414180/](https://www.linkedin.com/in/minh-nguyet-7ab414180/)
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100008777945888) [![Instagram](https://www.instagram.com/shelluna.mvn/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100008777945888)
 # 💻 Tech Stack
-![Python]([https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white](https://img.shields.io/badge/python-%2300ADD8.svg?style=flat&logo=python&logoColor=white))![SQL Badge](https://img.shields.io/badge/sql-%2300ADD8.svg?style=flat&logo=sql&logoColor=white)![Oracle Badge](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat&logo=oracle&logoColor=white)![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-%2343853D.svg?style=flat&logo=openai&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white&color=%23231F20)
+![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)![SQL Badge](https://img.shields.io/badge/sql-%2300ADD8.svg?style=flat&logo=sql&logoColor=white)![Oracle Badge](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat&logo=oracle&logoColor=white)![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-%2343853D.svg?style=flat&logo=openai&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white&color=%23231F20)
 
 
 <h3 align="left">Connect with me:</h3>
