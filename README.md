@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Nguyet</h1>
-# 🚀 Passionate Data Scientist | AI | Blockchain | DeFi  
+🚀 Passionate Data Scientist | AI | Blockchain | DeFi  
 
 Hi there! 👋 I'm a data-driven AI engineer with a background in **actuarial science** and a deep passion for **data science, AI, Blockchain, and DeFi**.  
 
