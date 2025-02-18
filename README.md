@@ -1,5 +1,27 @@
 <h1 align="center">Hi 👋, I'm Minh Nguyet</h1>
-🔭 I am a passinate data scientist<br>🌱 Enthusiastically engaging in the analysis and manipulation of large-scale datasets<br>⚡ Bullish on AI, Blockchain, Defi </h3>
+# 🚀 Passionate Data Scientist | AI | Blockchain | DeFi  
+
+Hi there! 👋 I'm a data-driven AI engineer with a background in **actuarial science** and a deep passion for **data science, AI, Blockchain, and DeFi**.  
+
+## 🌟 About Me  
+- 🌱 **Enthusiastically exploring:** Advanced **AI models**, **large-scale data analysis**, and cutting-edge **machine learning applications**.  
+- ⚡ **Bullish on:** **AI, Blockchain, and DeFi**—believing in the power of decentralized systems and intelligent automation.  
+- 💡 **Always learning:** Experimenting with **computer vision, NLP, and speech processing** to push the boundaries of AI.  
+- 🎯 **Goal:** Building impactful AI solutions that drive innovation in **finance, decentralized ecosystems, and beyond**.  
+
+## 📫 Let's Connect!  
+💬 Feel free to reach out if you're into AI, DeFi, or just geeking out over data!  
+
+---
+  
+💻 **Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)  
+![DeFi](https://img.shields.io/badge/-DeFi-29B6F6?style=flat-square)  
+
+🚀 **Let's build the future together!**  
 
 ## 📄 Know about my experiences [https://www.linkedin.com/in/minh-nguyet-7ab414180/](https://www.linkedin.com/in/minh-nguyet-7ab414180/)
 ## 🌐 Socials
